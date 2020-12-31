@@ -8,7 +8,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/shiguanghuxian/wechat/v2/mp/core"
+	"github.com/shiguanghuxian/wechat/mp/core"
 )
 
 // 卡劵 api_ticket 中控服务器接口.

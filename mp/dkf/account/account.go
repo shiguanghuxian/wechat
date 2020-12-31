@@ -6,7 +6,7 @@ import (
 	"encoding/hex"
 	"errors"
 
-	"github.com/shiguanghuxian/wechat/v2/mp/core"
+	"github.com/shiguanghuxian/wechat/mp/core"
 )
 
 // Add 添加客服账号.

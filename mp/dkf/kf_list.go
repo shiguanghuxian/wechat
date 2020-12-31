@@ -3,7 +3,7 @@ package dkf
 import (
 	"encoding/json"
 
-	"github.com/shiguanghuxian/wechat/v2/mp/core"
+	"github.com/shiguanghuxian/wechat/mp/core"
 )
 
 // 客服基本信息

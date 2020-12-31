@@ -2,7 +2,7 @@
 package response
 
 import (
-	"github.com/shiguanghuxian/wechat/v2/mp/core"
+	"github.com/shiguanghuxian/wechat/mp/core"
 )
 
 const (

@@ -1,4 +1,4 @@
-module github.com/shiguanghuxian/wechat/v2
+module github.com/shiguanghuxian/wechat
 
 go 1.15
 
