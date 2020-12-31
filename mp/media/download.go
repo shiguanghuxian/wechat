@@ -8,10 +8,10 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/chanxuehong/wechat/internal/debug/api"
-	"github.com/chanxuehong/wechat/internal/debug/api/retry"
-	"github.com/chanxuehong/wechat/mp/core"
-	"github.com/chanxuehong/wechat/util"
+	"github.com/shiguanghuxian/wechat/internal/debug/api"
+	"github.com/shiguanghuxian/wechat/internal/debug/api/retry"
+	"github.com/shiguanghuxian/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/util"
 )
 
 // Download 下载多媒体到文件.

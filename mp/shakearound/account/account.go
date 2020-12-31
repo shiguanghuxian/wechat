@@ -1,7 +1,7 @@
 package account
 
 import (
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/mp/core"
 )
 
 type RegisterParameters struct {

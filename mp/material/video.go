@@ -1,7 +1,7 @@
 package material
 
 import (
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/mp/core"
 )
 
 type Video struct {

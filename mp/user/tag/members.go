@@ -3,7 +3,7 @@ package tag
 import (
 	"errors"
 
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/mp/core"
 )
 
 // 文档地址 https://developers.weixin.qq.com/doc/offiaccount/User_Management/Manage_blacklist.html

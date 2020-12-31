@@ -1,7 +1,7 @@
 package menu
 
 import (
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/mp/core"
 )
 
 const (

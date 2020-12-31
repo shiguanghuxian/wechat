@@ -3,7 +3,7 @@ package shop
 import (
 	"errors"
 
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/mp/core"
 )
 
 type Shop struct {

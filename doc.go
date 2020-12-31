@@ -1,2 +1,2 @@
-// https://github.com/chanxuehong/wechat
+// https://github.com/shiguanghuxian/wechat
 package wechat

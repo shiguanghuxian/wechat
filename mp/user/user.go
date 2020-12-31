@@ -3,7 +3,7 @@ package user
 import (
 	"net/url"
 
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/mp/core"
 )
 
 const (
