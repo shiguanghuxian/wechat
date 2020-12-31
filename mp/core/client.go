@@ -8,9 +8,9 @@ import (
 	"net/url"
 	"reflect"
 
-	"github.com/shiguanghuxian/wechat/internal/debug/api"
-	"github.com/shiguanghuxian/wechat/internal/debug/api/retry"
-	"github.com/shiguanghuxian/wechat/util"
+	"github.com/shiguanghuxian/wechat/v2/internal/debug/api"
+	"github.com/shiguanghuxian/wechat/v2/internal/debug/api/retry"
+	"github.com/shiguanghuxian/wechat/v2/util"
 )
 
 type Client struct {

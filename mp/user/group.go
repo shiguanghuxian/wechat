@@ -1,7 +1,7 @@
 package user
 
 import (
-	"github.com/shiguanghuxian/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/v2/mp/core"
 )
 
 // GroupId 查询用户所在分组.

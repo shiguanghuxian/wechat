@@ -1,7 +1,7 @@
 package menu
 
 import (
-	"github.com/shiguanghuxian/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/v2/mp/core"
 )
 
 // 创建个性化菜单.

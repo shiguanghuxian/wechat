@@ -1,7 +1,7 @@
 package base
 
 import (
-	"github.com/shiguanghuxian/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/v2/mp/core"
 )
 
 // ShortURL 将一条长链接转成短链接.

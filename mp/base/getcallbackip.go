@@ -1,7 +1,7 @@
 package base
 
 import (
-	"github.com/shiguanghuxian/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/v2/mp/core"
 )
 
 // 获取微信服务器IP地址.

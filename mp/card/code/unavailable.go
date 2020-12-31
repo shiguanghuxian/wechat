@@ -1,7 +1,7 @@
 package code
 
 import (
-	"github.com/shiguanghuxian/wechat/mp/core"
+	"github.com/shiguanghuxian/wechat/v2/mp/core"
 )
 
 // 设置卡券失效接口.

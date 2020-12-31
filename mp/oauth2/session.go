@@ -4,11 +4,12 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"github.com/shiguanghuxian/wechat/internal/debug/api"
-	util2 "github.com/shiguanghuxian/wechat/internal/util"
-	"github.com/shiguanghuxian/wechat/oauth2"
-	"github.com/shiguanghuxian/wechat/util"
 	"net/http"
+
+	"github.com/shiguanghuxian/wechat/v2/internal/debug/api"
+	util2 "github.com/shiguanghuxian/wechat/v2/internal/util"
+	"github.com/shiguanghuxian/wechat/v2/oauth2"
+	"github.com/shiguanghuxian/wechat/v2/util"
 )
 
 type Session struct {

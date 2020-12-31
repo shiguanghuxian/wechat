@@ -10,10 +10,10 @@ import (
 	"os"
 	"unicode"
 
-	"github.com/shiguanghuxian/wechat/internal/debug/api"
-	"github.com/shiguanghuxian/wechat/internal/debug/api/retry"
-	"github.com/shiguanghuxian/wechat/mp/core"
-	"github.com/shiguanghuxian/wechat/util"
+	"github.com/shiguanghuxian/wechat/v2/internal/debug/api"
+	"github.com/shiguanghuxian/wechat/v2/internal/debug/api/retry"
+	"github.com/shiguanghuxian/wechat/v2/mp/core"
+	"github.com/shiguanghuxian/wechat/v2/util"
 )
 
 // Download 下载多媒体到文件.

@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/shiguanghuxian/wechat/mch/core"
-	"github.com/shiguanghuxian/wechat/util"
+	"github.com/shiguanghuxian/wechat/v2/mch/core"
+	"github.com/shiguanghuxian/wechat/v2/util"
 )
 
 // MicroPay 提交刷卡支付.

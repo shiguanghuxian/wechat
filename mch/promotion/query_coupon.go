@@ -1,7 +1,7 @@
 package promotion
 
 import (
-	"github.com/shiguanghuxian/wechat/mch/core"
+	"github.com/shiguanghuxian/wechat/v2/mch/core"
 )
 
 // 查询代金券信息.
