@@ -431,7 +431,7 @@ func (srv *Server) ServeHTTP(w http.ResponseWriter, r *http.Request, query url.V
 			callback.DebugPrintPlainRequestMessage(msgPlaintext)
 
 			var mixedMsg MixedMsg
-			log.Println("微信xml信息", msgPlaintext)
+			log.Println("微信xml信息", string(msgPlaintext))
 			if err = xml.Unmarshal(msgPlaintext, &mixedMsg); err != nil {
 				errorHandler.ServeError(w, r, err)
 				return
